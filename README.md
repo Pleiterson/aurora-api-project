@@ -1,17 +1,13 @@
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/
-aurora-api-project?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/aurora-api-project?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/
-aurora-api-project?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/aurora-api-project?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/
-aurora-api-project?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/aurora-api-project?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/
-aurora-api-project?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/aurora-api-project?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
